@@ -2,6 +2,7 @@
 <section name="Workbench">
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="D:\Backend_RMS\Retail Management System backend\Retail-Management-System_Backend\RetailManagementSystem"/>
 			<item value="E:\Retail Management System Repo\Retail-Management-System_Backend\RetailManagementSystem"/>
 		</list>
 		<list key="projectNameTemplate">
