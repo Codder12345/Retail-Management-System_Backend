@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class RetailManagementSystemApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(RetailManagementSystemApplication.class, args);
+		SpringApplication.run(RetailManagementSystemApplication.class, args); //comment
 	}
 
 }
