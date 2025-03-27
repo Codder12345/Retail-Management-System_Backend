@@ -1,6 +1,5 @@
 INDEX VERSION 1.134+E:\Retail Management System Repo\Retail-Management-System_Backend\.metadata\.plugins\org.eclipse.jdt.core
 4084440413.index
-3027871683.index
 2046570998.index
 1934478409.index
 1750044370.index

@@ -325,3 +325,6 @@ Contains: Missing org.apache.tomcat.embed:tomcat-embed-websocket:jar:javadoc:10.
 !MESSAGE Could not resolve artifact org.apache.tomcat.embed:tomcat-embed-websocket:jar:javadoc:10.1.39
 !SUBENTRY 2 org.eclipse.m2e.core 4 0 2025-03-27 10:23:06.968
 !MESSAGE Missing org.apache.tomcat.embed:tomcat-embed-websocket:jar:javadoc:10.1.39
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-03-27 10:24:20.887
+!MESSAGE Classpath changed for project: RetailManagementSystem
